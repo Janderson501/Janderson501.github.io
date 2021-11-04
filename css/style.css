@@ -5,6 +5,9 @@
 	font-family: Arial, Helvetia, Sans-serif ;
 	background-color: #eff5f9 ;
 }
+body {
+ background-image: url(../img/rocket.jpg)
+}
 .headerMenu{
 	background-image: url(../img/bluebar.png);
 	height: 56px;
