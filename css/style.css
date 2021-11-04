@@ -4,13 +4,14 @@
 	font-size: 12px;
 	font-family: Arial, Helvetia, Sans-serif ;
 	background-color: #eff5f9 ;
-	background-image: url(css/rocket.jpg);
+	background-image: url(css/Rocket.jpg);
 	background-size: cover;
 	background-attachment:  scroll;
 }
+body {
+}
 p {
 color: red;
-background-color: rgba(0,0,255,128);
 text-align: center;
 }
 .headerMenu{
