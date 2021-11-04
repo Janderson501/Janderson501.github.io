@@ -8,6 +8,11 @@
 	background-size: cover;
 	background-attachment:  scroll;
 }
+p{
+color: red;
+background-color: rgba(0,0,255,128);
+text-align: center;
+}
 .headerMenu{
 	background-image: url(../img/bluebar.png);
 	height: 56px;
