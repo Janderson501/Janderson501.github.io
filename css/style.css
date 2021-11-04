@@ -4,7 +4,9 @@
 	font-size: 12px;
 	font-family: Arial, Helvetia, Sans-serif ;
 	background-color: #eff5f9 ;
-	background-image: url(../img/Rocket.jpg)
+	background-image: url("rocket.jpg");
+	background-size: cover;
+	background-attachment:  scroll;
 }
 .headerMenu{
 	background-image: url(../img/bluebar.png);
